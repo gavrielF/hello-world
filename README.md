@@ -6,3 +6,6 @@ trying to work with git =)
 
 
 g: from pc
+
+
+g: termo 2
